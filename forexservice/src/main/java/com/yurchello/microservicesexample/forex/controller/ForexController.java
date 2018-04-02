@@ -1,7 +1,7 @@
 package com.yurchello.microservicesexample.forex.controller;
 
 import com.yurchello.microservicesexample.forex.entities.ExchangeValue;
-import com.yurchello.microservicesexample.forex.pepository.ExchangeValueRepository;
+import com.yurchello.microservicesexample.forex.repository.ExchangeValueRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.GetMapping;
