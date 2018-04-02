@@ -9,6 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients("com.yurchello.microservicesexample.ccs")
+
 //@EnableDiscoveryClient
 public class CCServiceApplication {
 
