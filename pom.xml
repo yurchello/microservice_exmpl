@@ -11,6 +11,7 @@
     <modules>
         <module>forexservice</module>
         <module>currencyConversionService</module>
+        <module>eurekaNamingServer</module>
     </modules>
 
 
